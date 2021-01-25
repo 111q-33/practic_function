@@ -1,0 +1,42 @@
+﻿生成启动时间为 2021/1/21 18:31:50。
+     1>项目“c:\Users\code19\documents\visual studio 2013\Projects\test_11_27\test_11_27\test_11_27.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>c:\users\code19\documents\visual studio 2013\projects\test_11_27\test_11_27\test.c(64): warning C4013: “printf”未定义；假设外部返回 int
+     1>c:\users\code19\documents\visual studio 2013\projects\test_11_27\test_11_27\test.c(77): warning C4013: “rand”未定义；假设外部返回 int
+     1>c:\users\code19\documents\visual studio 2013\projects\test_11_27\test_11_27\test.c(82): warning C4013: “scanf_s”未定义；假设外部返回 int
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\vadefs.h(50): error C2085: “uintptr_t”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\vadefs.h(59): error C2085: “va_list”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(496): error C2085: “size_t”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(503): error C2085: “size_t”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(503): error C2146: 语法错误: 缺少“,”(在标识符“rsize_t”的前面)
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(512): error C2085: “intptr_t”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(530): error C2085: “ptrdiff_t”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(536): error C2085: “wchar_t”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(541): error C2085: “wint_t”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(542): error C2085: “wctype_t”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(563): error C2085: “errno_t”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(567): error C2085: “__time32_t”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(572): error C2085: “__time64_t”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(580): error C2085: “__time64_t”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(580): error C2146: 语法错误: 缺少“,”(在标识符“time_t”的前面)
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(635): error C2143: 语法错误 : 缺少“)”(在“*”的前面)
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(635): error C2085: “_invalid_parameter”: 不在形参表中
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(635): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(635): error C2059: 语法错误:“)”
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(642): error C2143: 语法错误 : 缺少“)”(在“*”的前面)
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(642): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(642): error C2059: 语法错误:“,”
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(642): error C2059: 语法错误:“)”
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(2087): error C2061: 语法错误: 标识符“wchar_t”
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(2090): error C2059: 语法错误:“}”
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(2097): error C2061: 语法错误: 标识符“locrefcount”
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(2110): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\crtdefs.h(2111): error C2059: 语法错误:“}”
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(137): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“c:\Users\code19\documents\visual studio 2013\Projects\test_11_27\test_11_27\test_11_27.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.11
